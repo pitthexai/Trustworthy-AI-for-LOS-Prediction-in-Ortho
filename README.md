@@ -91,8 +91,7 @@ Due to data use agreements and patient privacy protections, the raw NSQIP datase
 
 
 ### Publications
-- <p align="justify">
-<strong>Trustworthy AI Models for Hospital Length-of-Stay Prediction in Orthopedic Surgery</strong><br/>
+- <p align="justify"><strong>Trustworthy AI Models for Hospital Length-of-Stay Prediction in Orthopedic Surgery</strong><br/>
 Journal of Orthopaedic Reports, 2025.
 </p>
 
