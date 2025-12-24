@@ -39,7 +39,7 @@ The proposed approach integrates machine learning–based risk prediction with u
 
 - <p align="justify"><strong>Models:</strong> Trained machine learning models (including the optimized XGBoost model) and related configuration files.</p>
 
----
+
 
 ### The Proposed Computational Pipeline
 <p align="center">
@@ -51,7 +51,7 @@ The proposed approach integrates machine learning–based risk prediction with u
 The computational pipeline consists of cohort construction from the NSQIP registry, preoperative feature extraction, binary LOS outcome definition, supervised machine learning model training with five-fold stratified cross-validation, uncertainty quantification via bootstrap confidence intervals, probabilistic calibration analysis, subgroup-level fairness evaluation, and global and local explainability using SHAP and LIME.
 </p>
 
----
+
 
 ### Explainable AI: Clinical App Interface
 <p align="center">
@@ -67,7 +67,7 @@ A clinician-facing decision-support interface was developed using Streamlit to e
 The interface supports model selection, patient-level inspection, and visualization of contributing factors, facilitating preoperative risk stratification while preserving clinician oversight and judgment.
 </p>
 
----
+
 
 ### Data Availability
 <p align="justify">
@@ -78,7 +78,7 @@ The clinical data used in this study were obtained from the American College of 
 Due to data use agreements and patient privacy protections, the raw NSQIP dataset cannot be shared publicly. This repository provides all source code, trained models, and documentation necessary to reproduce the analyses for authorized users with appropriate data access.
 </p>
 
----
+
 
 ### Publications
 - <p align="justify">
@@ -86,14 +86,14 @@ Due to data use agreements and patient privacy protections, the raw NSQIP datase
 Journal of Orthopaedic Reports, 2025.
 </p>
 
----
+
 
 ### Acknowledgments
 <p align="justify">
 The authors gratefully acknowledge the American College of Surgeons and the National Surgical Quality Improvement Program (ACS-NSQIP) for providing access to the clinical dataset used in this research.
 </p>
 
----
+
 
 ### Citation
 <p align="justify">
