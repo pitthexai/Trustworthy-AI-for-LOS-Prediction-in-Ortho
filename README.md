@@ -48,7 +48,7 @@ The proposed approach integrates machine learning–based risk prediction with u
 
 
 <p align="center"> 
-  <img src="Figures/fig03_shap_TKA.png" alt="SHAP summary for TKA" width="400"/> 
+  <img src="Figures/SHAP.png" alt="SHAP Summery" width="400"/> 
   <img src="Figures/LIME.png" alt="LIME Explanation" width="400"/> 
 </p>
 
