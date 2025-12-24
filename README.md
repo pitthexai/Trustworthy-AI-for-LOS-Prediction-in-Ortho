@@ -54,7 +54,7 @@ The computational pipeline consists of cohort construction from the NSQIP regist
 
 ### Explainable AI: Clinical App Interface
 <p align="center">
-  <img src="Figures/Local_SHAP.png" alt="Local SHAP Explanation" width="800"/>
+  <img src="Figures/Local_SHAP.png" alt="Local SHAP Explanation" width="400"/>
 </p>
 
 <p align="center">
