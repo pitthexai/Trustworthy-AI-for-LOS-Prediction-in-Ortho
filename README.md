@@ -46,6 +46,14 @@ The proposed approach integrates machine learning–based risk prediction with u
   <img src="Figures/LOS_Cohort_4.png" alt="Study cohort and LOS outcome definition" width="600"/>
 </p>
 
+
+<p align="center"> 
+  <img src="Figures/fig03_shap_TKA.png" alt="SHAP summary for TKA" width="250"/> 
+  <img src="Figures/LIME.png" alt="LIME Explanation" width="250"/> 
+  <img src="Figures/Figure_Fairness_IJMI.png" alt="ّFairness Explanation" width="250"/> 
+</p>
+
+
 <p align="justify">
 The computational pipeline consists of cohort construction from the NSQIP registry, preoperative feature extraction, binary LOS outcome definition, supervised machine learning model training with five-fold stratified cross-validation, uncertainty quantification via bootstrap confidence intervals, probabilistic calibration analysis, subgroup-level fairness evaluation, and global and local explainability using SHAP and LIME.
 </p>
