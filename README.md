@@ -1,4 +1,4 @@
-# Trustworthy-XAI-for-LOS-Prediction-in-Orthopedic-Surgery
+# Trustworthy-AI-for-LOS-Prediction-in-Ortho
 
 Trustworthy and explainable AI framework for predicting hospital length of stay (LOS) following orthopedic inpatient surgery.
 
@@ -91,7 +91,7 @@ Due to data use agreements and patient privacy protections, the raw NSQIP datase
 
 
 ### Publications
-- <p align="justify"><strong>Trustworthy AI Models for Hospital Length-of-Stay Prediction in Orthopedic Surgery</strong>, Published in <i>Journal of Orthopaedic Reports</i>, 2025.</p>
+- <p align="justify"><strong>Trustworthy AI Models to Predict Prolonged Hospital Length-of-Stay in Orthopedic Surgery</strong>, Published in <i>Journal of Orthopaedic Reports</i>, 2025.</p>
 
 
 
