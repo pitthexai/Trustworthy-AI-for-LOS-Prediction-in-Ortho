@@ -43,7 +43,7 @@ The proposed approach integrates machine learning–based risk prediction with u
 
 ### The Proposed Computational Pipeline
 <p align="center">
-  <img src="Figures/LOS_Cohort_5_2.png" alt="Study cohort and LOS outcome definition" width="600"/>
+  <img src="Figures/LOS_Cohort_5_2.png" alt="Study cohort and LOS outcome definition" width="700"/>
 </p>
 
 
