@@ -16,17 +16,13 @@ Trustworthy and explainable AI framework for predicting hospital length of stay 
 
 
 ### Abstract
-<p align="justify">
-This GitHub repository contains the full implementation of a trustworthy, uncertainty-aware, and explainable artificial intelligence (AI) framework for predicting prolonged hospital length of stay (LOS) following orthopedic inpatient surgery.
-</p>
+<p align="justify">This GitHub repository contains the full implementation of a trustworthy, uncertainty-aware, and explainable artificial intelligence (AI) framework for predicting prolonged hospital length of stay (LOS) following orthopedic inpatient surgery.</p>
 
-<p align="justify">
-Hospital LOS was formulated as a binary classification task using a clinically motivated cutoff of five days (LOS ≤ 5 vs. LOS > 5 days). The framework relies exclusively on preoperative patient demographics, comorbidities, laboratory values, and procedural characteristics derived from the American College of Surgeons National Surgical Quality Improvement Program (ACS-NSQIP) database (2021–2023).
-</p>
+<p align="justify">Hospital LOS was formulated as a binary classification task using two clinically relevant thresholds (LOS ≤ 2 vs. LOS > 2 days and LOS ≤ 5 vs. LOS > 5 days), with primary emphasis on the 5-day cutoff due to its greater clinical interpretability and stability across orthopedic procedures.</p>
 
-<p align="justify">
-The proposed approach integrates machine learning–based risk prediction with uncertainty quantification, calibration analysis, algorithmic fairness assessment across age, sex, and race subgroups, and explainability using SHapley Additive exPlanations (SHAP) and Local Interpretable Model-Agnostic Explanations (LIME). The resulting framework is designed to support transparent, equitable, and clinically actionable decision-making in orthopedic surgery.
-</p>
+<p align="justify">The framework relies exclusively on preoperative patient demographics, comorbidities, laboratory values, and procedural characteristics derived from the American College of Surgeons National Surgical Quality Improvement Program (ACS-NSQIP) database (2021–2023).</p>
+
+<p align="justify">The proposed approach integrates machine learning–based risk prediction with uncertainty quantification, calibration analysis, algorithmic fairness assessment across age, sex, and race subgroups, and explainability using SHapley Additive exPlanations (SHAP) and Local Interpretable Model-Agnostic Explanations (LIME). The resulting framework is designed to support transparent, equitable, and clinically actionable decision-making in orthopedic surgery.</p>
 
 
 
