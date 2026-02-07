@@ -87,9 +87,13 @@ Due to data use agreements and patient privacy protections, the raw NSQIP datase
 
 
 
-### Publications
-- <p align="justify"><strong>Trustworthy AI Models to Predict Prolonged Hospital Length-of-Stay in Orthopedic Surgery</strong>, Published in <i>Journal of Orthopaedic Reports</i>, 2025.</p>
-
+### Publications<p align="justify">
+<strong>Trustworthy AI Models to Predict Prolonged Hospital Length-of-Stay in Orthopedic Surgery</strong>, 
+manuscript under review at 
+<a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target="_blank">
+<i>Artificial Intelligence in Medicine</i>
+</a>, 2026.
+</p>
 
 
 ### Acknowledgments
@@ -105,8 +109,8 @@ If you use this repository or any part of this work in your research, please cit
 </p>
 
 <p align="justify">
-Rezvani F, Kann M, Myers N, Gupta P, Kashefi A, Hogan MV, Plate JF, Tafti AP.<br/>
-<i>Trustworthy AI Models for Hospital Length-of-Stay Prediction in Orthopedic Surgery</i>, 2025.
+Rezvani, Farnaz; Kann, Michael; Gao, Fengyi; Myers, Nicole; Kashefi, Armin; Visweswaran, Shyam; Wang, Yanshan; Hogan, MaCalus V.; Plate, Johannes F.; Tafti, Ahmad P.<br/>
+<i>Trustworthy AI Models to Predict Prolonged Hospital Length-of-Stay in Orthopedic Surgery</i>, 2026.
 </p>
 
 <p align="center">
