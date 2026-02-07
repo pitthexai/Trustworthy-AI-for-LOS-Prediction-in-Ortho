@@ -44,14 +44,15 @@ Trustworthy and explainable AI framework for predicting hospital length of stay 
 
 
 <p align="center"> 
-  <img src="Figures/SHAP.png" alt="SHAP Summery" width="400"/> 
-  <img src="Figures/LIME.png" alt="LIME Explanation" width="400"/> 
+  <img src="Figures/cutoff_5.png" alt="SHAP Summery for cutoff 5" width="400"/> 
+  <img src="Figures/cutoff_2.png" alt="SHAP Summery for cutoff 2" width="400"/> 
 </p>
 
 
 <p align="justify">
-The computational pipeline consists of cohort construction from the NSQIP registry, preoperative feature extraction, binary LOS outcome definition, supervised machine learning model training with five-fold stratified cross-validation, uncertainty quantification via bootstrap confidence intervals, probabilistic calibration analysis, subgroup-level fairness evaluation, and global and local explainability using SHAP and LIME.
+The computational pipeline consists of cohort construction from the ACS-NSQIP registry (2021–2023), preoperative feature extraction, binary LOS outcome definition using two clinically relevant thresholds (LOS &gt; 2 days and LOS &gt; 5 days, with primary emphasis on the 5-day cutoff), supervised machine learning model training with five-fold stratified cross-validation, uncertainty quantification via bootstrap confidence intervals, probabilistic calibration analysis, subgroup-level fairness evaluation across age, sex, and race, and global and local explainability using SHAP and LIME.
 </p>
+
 
 
 
