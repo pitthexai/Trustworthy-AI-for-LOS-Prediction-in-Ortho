@@ -90,8 +90,8 @@ Due to data use agreements and patient privacy protections, the raw NSQIP datase
 ### Publications<p align="justify">
 <strong>Trustworthy AI Models to Predict Prolonged Hospital Length-of-Stay in Orthopedic Surgery</strong>, 
 manuscript under review at 
-<a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target="_blank">
-<i>Artificial Intelligence in Medicine</i>
+<a href="https://www.nature.com/npjhealthsyst/" target="_blank">
+<i>npj Health Systems</i>
 </a>, 2026.
 </p>
 
